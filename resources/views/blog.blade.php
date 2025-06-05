@@ -32,10 +32,10 @@
         </div>
 
         <div class="bg-white rounded-2xl shadow-md p-6 hover:shadow-xl transition">
-            <h2 class="text-2xl font-semibold mb-1">Meine liebsten Laufstrecken</h2>
+            <h2 class="text-2xl font-semibold mb-1">Meine liebsten Musistücke</h2>
             <p class="text-sm text-gray-500 mb-2">15. Mai 2025</p>
             <p class="text-gray-700 text-sm">
-                Ob im Wald, am Fluss oder durch die Stadt – hier teile ich meine Top-3 Laufstrecken und Tipps für neue Läufer:innen.
+                Egal welche Musikstücke von Mozart, Bach oder Beethoven ich liebe sie alle.
             </p>
         </div>
 

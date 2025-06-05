@@ -27,7 +27,7 @@ class PageController extends Controller
     public function start(Request $request){
         return view('start',[
             "heading" => "Willkommen auf meiner Website",
-            "content" => "Schön, dass du hierher gefunden hast. Ich bin <strong>Antonio</strong>. <script>alert('hallo');window.top.location='https://www.hakzell.at';</script>"
+            "content" => "Schön, dass du hierher gefunden hast. Ich bin <strong>Thomas</strong>. <script>alert('hallo');window.top.location='https://www.hakzell.at';</script>"
         ]);
     }
 }

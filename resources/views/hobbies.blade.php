@@ -23,15 +23,15 @@
         <!-- Hobby 2 -->
         <div class="bg-white rounded-2xl shadow-lg p-6 text-center hover:shadow-xl transition">
             <div class="text-5xl mb-4">🎸</div>
-            <h2 class="text-xl font-semibold mb-2">Gitarre spielen</h2>
+            <h2 class="text-xl font-semibold mb-2">Waldhorn spielen</h2>
             <p class="text-gray-600 text-sm">Musik hilft mir zu entspannen – am liebsten spiele ich Akustikgitarre.</p>
         </div>
 
         <!-- Hobby 3 -->
         <div class="bg-white rounded-2xl shadow-lg p-6 text-center hover:shadow-xl transition">
             <div class="text-5xl mb-4">🏃‍♂️</div>
-            <h2 class="text-xl font-semibold mb-2">Laufen</h2>
-            <p class="text-gray-600 text-sm">Regelmäßige Läufe halten mich fit und geben mir neue Energie.</p>
+            <h2 class="text-xl font-semibold mb-2">Gym</h2>
+            <p class="text-gray-600 text-sm">Regelmäßiges training im Gym halten mich fit und geben mir neue Energie.</p>
         </div>
 
     </div>

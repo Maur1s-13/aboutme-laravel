@@ -13,15 +13,15 @@
 
     <section>
         <h2 class="text-xl font-semibold mb-2">Angaben gemäß § 5 TMG</h2>
-        <p>Antonio Govorusic<br>
-            Kirchgasse 14<br>
-            5730 Mittersill</p>
+        <p>Thomas Stöckl<br>
+            Innerdorf 37<br>
+            5724 Stuhlfelden</p>
     </section>
 
     <section>
         <h2 class="text-xl font-semibold mb-2">Kontakt</h2>
-        <p>Telefon: +436706050424<br>
-            E-Mail: <a href="mailto:agovorusic@schueler.hakzell.at" class="text-blue-600 hover:underline"></a>agovorusic@schueler.hakzell.at</p>
+        <p>Telefon: +436642524438<br>
+            E-Mail: <a href="mailto:tstoeckl@schueler.hakzell.at" class="text-blue-600 hover:underline"></a>tstoeckl@schueler.hakzell.at</p>
     </section>
 
 
