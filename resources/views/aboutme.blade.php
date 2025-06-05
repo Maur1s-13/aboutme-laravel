@@ -9,11 +9,9 @@
 <body class="bg-gray-100 flex items-center justify-center min-h-screen">
 
 <div class="text-center">
-    <img
-        src="{{asset('images/toni.png')}}"
-        alt="Mein Foto"
-        class="w-64 h-64 md:w-80 md:h-80 object-cover shadow-lg border-4 border-white"
-    />
+    <p>
+        Das bin ich
+    </p>
 </div>
 
 </body>
